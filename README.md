@@ -1,1 +1,1 @@
-# Java-Advanced-Course
+Welcome to my Java Advanced Course repository! This repository contains the materials I have completed during the Java Advanced course.
